@@ -12,6 +12,8 @@ The dataset is collected from two news websites, theonion.com and huffingtonpost
 <h2>Content:</h2>
 
 <h4>Each record consists of three attributes:</h4>
--is_sarcastic: 1 if the record is sarcastic otherwise 0
--headline: the headline of the news article
--article_link: link to the original news article. Useful in collecting supplementary data.
+<ol>
+  <li> -is_sarcastic: 1 if the record is sarcastic otherwise 0
+  <li> -headline: the headline of the news article
+  <li> -article_link: link to the original news article. Useful in collecting supplementary data.
+</ol>
